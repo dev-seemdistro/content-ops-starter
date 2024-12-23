@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Empower Your Sound With Us
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Let get you started
     text: >+
