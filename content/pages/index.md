@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Emo
+      text: Empower your sound with us
       color: text-dark
       type: TitleBlock
     subtitle: Let get you started
