@@ -40,6 +40,9 @@ sections:
       altText: socket nigeria rapper
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 0
     elementId: ''
     colors: bg-light-fg-dark
     styles:
