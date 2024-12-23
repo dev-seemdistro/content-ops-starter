@@ -44,7 +44,7 @@ sections:
         self:
           borderWidth: 0
           padding:
-            - pt-0
+            - pt-20
             - pl-0
             - pb-20
             - pr-0
