@@ -44,10 +44,10 @@ sections:
         self:
           borderWidth: 0
           padding:
-            - pt-96
-            - pl-96
-            - pb-96
-            - pr-96
+            - pt-28
+            - pl-28
+            - pb-28
+            - pr-28
     elementId: ''
     colors: bg-light-fg-dark
     styles:
