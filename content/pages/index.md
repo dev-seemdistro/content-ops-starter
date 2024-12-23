@@ -49,7 +49,7 @@ sections:
             - pb-0
             - pr-0
           margin:
-            - mt-14
+            - mt-0
             - mb-14
     elementId: ''
     colors: bg-light-fg-dark
