@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      <div style="text-align: left">We specialize in delivering high-quality
+      music distribution services, helping artists, producers, and labels make
+      their music accessible on all major streaming platforms and digital
+      stores.</div>
+
     actions:
       - label: Get started
         altText: ''
