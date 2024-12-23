@@ -44,7 +44,7 @@ sections:
         self:
           borderWidth: 0
           padding:
-            - pt-12
+            - pt-0
     elementId: ''
     colors: bg-light-fg-dark
     styles:
