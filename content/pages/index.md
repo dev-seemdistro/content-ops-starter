@@ -43,6 +43,8 @@ sections:
       styles:
         self:
           borderWidth: 0
+          padding:
+            - pt-12
     elementId: ''
     colors: bg-light-fg-dark
     styles:
