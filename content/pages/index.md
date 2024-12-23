@@ -50,6 +50,7 @@ sections:
             - pr-0
           margin:
             - mt-14
+            - mb-14
     elementId: ''
     colors: bg-light-fg-dark
     styles:
