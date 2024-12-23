@@ -35,7 +35,7 @@ sections:
       url: >-
         /images/Brown & Beige Aesthetic Trendy Torn Paper Photo Collage Portrait
         2.PNG
-      altText: Unblock your team boost your time to production preview
+      altText: socket nigeria rapper
       elementId: ''
       type: ImageBlock
     badge:
