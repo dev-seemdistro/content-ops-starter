@@ -40,10 +40,6 @@ sections:
       altText: socket nigeria rapper
       elementId: ''
       type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
