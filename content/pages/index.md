@@ -7,7 +7,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Empower your sound with us
     text: >+
       <div style="text-align: left">We specialize in delivering high-quality
       music distribution services, helping artists, producers, and labels make
